@@ -18,3 +18,16 @@ C:\Users\pwgdespra\Desktop\Quickstart-Git-Netcore3\Quickstart-Netcore3\Quickstar
 C:\Users\pwgdespra\Desktop\Quickstart-Git-Netcore3\Quickstart-Netcore3\Quickstart-Netcore3\obj\Debug\netcoreapp3.1\Quickstart-Netcore3.dll
 C:\Users\pwgdespra\Desktop\Quickstart-Git-Netcore3\Quickstart-Netcore3\Quickstart-Netcore3\obj\Debug\netcoreapp3.1\Quickstart-Netcore3.pdb
 C:\Users\pwgdespra\Desktop\Quickstart-Git-Netcore3\Quickstart-Netcore3\Quickstart-Netcore3\obj\Debug\netcoreapp3.1\Quickstart-Netcore3.genruntimeconfig.cache
+C:\Users\pwgdespra\Desktop\Quickstart-Git-Netcore3\Quickstart-Netcore3\Quickstart-Netcore3\bin\Debug\netcoreapp3.1\Quickstart-Netcore3.Views.dll
+C:\Users\pwgdespra\Desktop\Quickstart-Git-Netcore3\Quickstart-Netcore3\Quickstart-Netcore3\bin\Debug\netcoreapp3.1\Quickstart-Netcore3.Views.pdb
+C:\Users\pwgdespra\Desktop\Quickstart-Git-Netcore3\Quickstart-Netcore3\Quickstart-Netcore3\obj\Debug\netcoreapp3.1\Quickstart-Netcore3.RazorAssemblyInfo.cache
+C:\Users\pwgdespra\Desktop\Quickstart-Git-Netcore3\Quickstart-Netcore3\Quickstart-Netcore3\obj\Debug\netcoreapp3.1\Quickstart-Netcore3.RazorAssemblyInfo.cs
+C:\Users\pwgdespra\Desktop\Quickstart-Git-Netcore3\Quickstart-Netcore3\Quickstart-Netcore3\obj\Debug\netcoreapp3.1\Quickstart-Netcore3.TagHelpers.input.cache
+C:\Users\pwgdespra\Desktop\Quickstart-Git-Netcore3\Quickstart-Netcore3\Quickstart-Netcore3\obj\Debug\netcoreapp3.1\Quickstart-Netcore3.TagHelpers.output.cache
+C:\Users\pwgdespra\Desktop\Quickstart-Git-Netcore3\Quickstart-Netcore3\Quickstart-Netcore3\obj\Debug\netcoreapp3.1\Quickstart-Netcore3.RazorCoreGenerate.cache
+C:\Users\pwgdespra\Desktop\Quickstart-Git-Netcore3\Quickstart-Netcore3\Quickstart-Netcore3\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\pwgdespra\Desktop\Quickstart-Git-Netcore3\Quickstart-Netcore3\Quickstart-Netcore3\obj\Debug\netcoreapp3.1\Quickstart-Netcore3.RazorTargetAssemblyInfo.cs
+C:\Users\pwgdespra\Desktop\Quickstart-Git-Netcore3\Quickstart-Netcore3\Quickstart-Netcore3\obj\Debug\netcoreapp3.1\Quickstart-Netcore3.Views.pdb
+C:\Users\pwgdespra\Desktop\Quickstart-Git-Netcore3\Quickstart-Netcore3\Quickstart-Netcore3\obj\Debug\netcoreapp3.1\Quickstart-Netcore3.csproj.CopyComplete
+C:\Users\pwgdespra\Desktop\Quickstart-Git-Netcore3\Quickstart-Netcore3\Quickstart-Netcore3\obj\Debug\netcoreapp3.1\Razor\Pages\Public\Login.cshtml.g.cs
+C:\Users\pwgdespra\Desktop\Quickstart-Git-Netcore3\Quickstart-Netcore3\Quickstart-Netcore3\obj\Debug\netcoreapp3.1\Razor\Pages\Public\Register.cshtml.g.cs

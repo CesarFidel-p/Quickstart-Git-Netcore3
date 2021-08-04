@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quickstart-Netcore3", "Quickstart-Netcore3\Quickstart-Netcore3.csproj", "{058878D4-B155-42F1-B792-6E07D376D04B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quickstart-Netcore3", "Quickstart-Netcore3\Quickstart-Netcore3.csproj", "{058878D4-B155-42F1-B792-6E07D376D04B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuickBLL", "QuickBLL\QuickBLL.csproj", "{FF211AF1-F2C5-44BA-9767-0079F0141F57}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuickDAL", "QuickDAL\QuickDAL.csproj", "{A1557175-D7F6-4CDF-85CE-7D78FF784448}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{058878D4-B155-42F1-B792-6E07D376D04B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{058878D4-B155-42F1-B792-6E07D376D04B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{058878D4-B155-42F1-B792-6E07D376D04B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF211AF1-F2C5-44BA-9767-0079F0141F57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF211AF1-F2C5-44BA-9767-0079F0141F57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF211AF1-F2C5-44BA-9767-0079F0141F57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF211AF1-F2C5-44BA-9767-0079F0141F57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1557175-D7F6-4CDF-85CE-7D78FF784448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1557175-D7F6-4CDF-85CE-7D78FF784448}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1557175-D7F6-4CDF-85CE-7D78FF784448}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1557175-D7F6-4CDF-85CE-7D78FF784448}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
